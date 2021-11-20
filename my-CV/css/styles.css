@@ -1,0 +1,218 @@
+body {
+  font-family: "Montserrat", sans-serif;
+  background-color: #f5f7fa;
+}
+
+.about-me {
+  font-size: 14px;
+  font-weight: 700px;
+  color: #000;
+}
+
+.block {
+  display: flex;
+  flex-direction: row;
+  width: 1200px;
+  background-color: #fff;
+  margin: 40px auto;
+  box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+}
+
+.main-container {
+  margin: 30px;
+}
+
+.main-content {
+  padding: 100px 90px;
+}
+
+.main-content-title {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 22px;
+  line-height: 27px;
+}
+
+.about-me {
+  margin: 0 0 40px 0;
+}
+
+.my-profession {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 17px;
+  color: black;
+  margin: 0 0 20px 0;
+}
+
+.my-name {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 45px;
+  line-height: 55px;
+  color: black;
+  margin: 0 0 25px 0;
+}
+
+.description {
+  width: 400px;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+}
+
+/* About projects */
+
+.my-projects-section {
+  margin: 0 0 50px 0;
+}
+
+.my-projects-list,
+.duties {
+  padding: 0 0 0 17px;
+}
+
+.my-projects-item {
+  font-weight: bold;
+  color: black;
+}
+
+.my-project-text,
+.my-projects-link {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  color: gray;
+  margin: 5px;
+}
+
+.bracket {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 24px;
+  color: black;
+}
+
+/* Work experience */
+.internship-position {
+  color: #f86d3a;
+}
+
+.my-work-experbience-position {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 20px;
+  margin: 0 0 0 0;
+}
+
+.my-work-experience-period {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 15px;
+  color: #ababab;
+  margin: 0 0 10px 0;
+}
+
+.my-work-experience-divider,
+.education-divider {
+  color: black;
+}
+
+.duties li {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  color: #ababab;
+}
+
+.internship-experience,
+.my-education {
+  margin: 0 15px 0 0;
+}
+
+.main-content-title {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 22px;
+  line-height: 27px;
+}
+
+.education-indicator {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 20px;
+  color: #fb6d3a;
+}
+
+.education-precise {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 17px;
+}
+
+.duration {
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 15px;
+  color: #a8a8a8;
+}
+
+.sidebar-settings {
+  background-color: #1a2b44;
+  width: 370px;
+  padding: 40px 0;
+}
+
+.tech-skills,
+.contacts {
+  margin: 50px 0 0 30px;
+}
+
+.sidebar-heading {
+  font-size: 22px;
+  font-style: normal;
+  font-weight: bold;
+  line-height: 27px;
+  color: white;
+  margin: 10px;
+}
+
+.contacts-type {
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 24px;
+  color: white;
+  margin-right: 7px;
+}
+
+.contacts-link,
+.tech-skills-text,
+.soft-skills-text {
+  color: white;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+}
+
+.tech-skills-list,
+.soft-skills-list {
+  padding: 0 0 0 30px;
+  color: orange;
+}
+
+.soft-skills {
+  margin: 50px 0 0 30px;
+}
